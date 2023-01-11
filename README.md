@@ -42,7 +42,7 @@ Our application also provides a user to user sharing experience within our app v
 - Please perform a npm i inside your terminal within the root of your repo folder to ensure all packages are installed.
 
 ## Usage
-
+Visit TravelX: https://travelx.herokuapp.com/
 ## License
 
 none
